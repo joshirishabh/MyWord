@@ -1,0 +1,2 @@
+# MyWord
+Optimized Text Editor
